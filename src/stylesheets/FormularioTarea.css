@@ -1,0 +1,35 @@
+.formulario-tarea {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-tarea {
+  margin-right: 5px;
+  width: 350px;
+  font-size: 18px;
+  background-color: white;
+  padding: 14px 32px 14px 16px;
+  border-radius: 4px;
+  border: 2px solid #00471b;
+  outline: none;
+}
+
+.boton-tarea {
+  padding: 16px;
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  color: white;
+  background-color: #00471b;
+  
+}
+
+
+.boton-tarea:hover {
+  background-color: #33693d;
+}

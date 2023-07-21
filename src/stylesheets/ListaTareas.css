@@ -1,0 +1,17 @@
+.contenedor-lista-tareas {
+  min-height: 500px;
+  background-color: #d0d0d5;
+  padding: 25px;
+  margin: 10px;
+  border-radius: 25px;
+  
+}
+
+.contenedor-lista-tareas h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgb(2, 52, 85);
+  font-family:monospace;
+  font-size: 35px;
+}

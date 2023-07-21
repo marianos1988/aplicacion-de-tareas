@@ -1,0 +1,22 @@
+
+.contenedor-titulo {
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-logo {
+    margin-right: 10px;
+    object-fit: cover;
+    width: 5%;
+    border-radius: 50%;
+}
+
+.titulo {
+    color: rgb(10, 118, 190);
+    font-family:monospace;
+    font-size: 45px;
+}
